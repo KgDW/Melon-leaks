@@ -1,0 +1,4 @@
+package melon
+
+class MelonMixin {
+}

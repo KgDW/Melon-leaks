@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "melon",
+    "name": "Melon",
+    "description": "Welcome Back!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "Pywong",
+      "zenhao"
+    ]
+  }
+]
